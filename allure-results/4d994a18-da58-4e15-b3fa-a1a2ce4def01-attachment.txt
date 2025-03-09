@@ -1,0 +1,49 @@
+{
+  "id": {
+    "sessionId": "75162117e3461fd575c8b2e428912187",
+    "elementId": "f.C2B2BFC003AE6B8BBDB33696698F3A57.d.39DBCAFEDCAE35C9F4836B1ECD7A0BF7.e.167",
+    "element-6066-11e4-a52e-4f735466cecf": "f.C2B2BFC003AE6B8BBDB33696698F3A57.d.39DBCAFEDCAE35C9F4836B1ECD7A0BF7.e.167",
+    "locator": {
+      "type": "css",
+      "value": "#iframe-1"
+    },
+    "selector": "#iframe-1",
+    "parent": {
+      "sessionId": "75162117e3461fd575c8b2e428912187",
+      "capabilities": {
+        "acceptInsecureCerts": false,
+        "browserName": "chrome",
+        "browserVersion": "133.0.6943.143",
+        "chrome": {
+          "chromedriverVersion": "133.0.6943.143 (c0343fb2cd38e04fcb4190e8615244f80947f083-refs/branch-heads/6943@{#1914})",
+          "userDataDir": "C:\\Users\\nanda\\AppData\\Local\\Temp\\scoped_dir15188_1277394902"
+        },
+        "fedcm:accounts": true,
+        "goog:chromeOptions": {
+          "debuggerAddress": "localhost:61629"
+        },
+        "networkConnectionEnabled": false,
+        "pageLoadStrategy": "normal",
+        "platformName": "windows",
+        "proxy": {},
+        "setWindowRect": true,
+        "strictFileInteractability": false,
+        "timeouts": {
+          "implicit": 0,
+          "pageLoad": 300000,
+          "script": 30000
+        },
+        "unhandledPromptBehavior": "ignore",
+        "webSocketUrl": "ws://localhost:61624/session/75162117e3461fd575c8b2e428912187",
+        "webauthn:extension:credBlob": true,
+        "webauthn:extension:largeBlob": true,
+        "webauthn:extension:minPinLength": true,
+        "webauthn:extension:prf": true,
+        "webauthn:virtualAuthenticators": true,
+        "wdio:driverPID": 15188
+      }
+    },
+    "isReactElement": false,
+    "isShadowElement": false
+  }
+}
